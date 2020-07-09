@@ -1,0 +1,92 @@
+.center {
+  position: absolute;
+  top: 3%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+  padding: 100px;
+  
+  }
+  
+  .Produit {
+     top: 10%;
+      width: 350px;
+      height: 300px;
+      font-size: 18px;
+      
+    }
+  
+  
+  .Produit:hover {
+    width: 500px;
+      height: 400px;
+    
+  }
+  .tv{
+      display: flex;
+      justify-content: space-between;
+  }
+  .button1{
+      
+    display: flex;
+    justify-content: space-between;
+    width: 101px;
+    position: absolute;
+    margin-left: 1145px;
+    margin-top: 5px;
+  }
+  .button2{
+      
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    width: 101px;
+    position: absolute;
+    margin-left: -130px;
+    margin-top: 5px;
+  }
+
+  
+   #heart {
+    color: grey;
+    cursor: pointer;
+  }
+  #header {
+    padding: -14px 10px ;
+    color: black;
+    text-align: center;
+    font-size: 90px; 
+    font-weight: bold;
+    position: fixed;
+    top: 0;
+    width: 87%;
+    height: 18%;
+    transition: 0.2s;
+  }
+  #count {
+    width: 200px;
+  }
+  #trash{
+    cursor: pointer;
+  }
+  #like{
+    cursor: pointer;
+  }
+  #like1{
+    cursor: pointer;
+  }
+  #like2{
+    cursor: pointer;
+  }
+  .tv:hover{
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2);
+  }
+  
+
+#like3{
+  cursor: pointer;
+}
+
+#like4{
+  cursor: pointer;
+}
